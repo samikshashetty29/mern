@@ -1,0 +1,16 @@
+{
+  "name": "frontend",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "serve . -l 5173"
+  },
+  "dependencies": {
+    "@babel/standalone": "^7.29.12",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "serve": "^14.2.6"
+  }
+}
